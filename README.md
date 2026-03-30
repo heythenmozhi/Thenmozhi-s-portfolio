@@ -1,20 +1,68 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Thenmozhi R - Portfolio
 
-# Run and deploy your AI Studio app
+## 👩‍💻 About Me
+Hello! I'm Thenmozhi R, a B.Tech Information Technology student passionate about software development, web technologies, and artificial intelligence. I enjoy building real-world applications and continuously learning modern technologies.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/6f115529-377e-452e-810c-fb6c0334e4e3
+## 🚀 Skills
 
-## Run Locally
+- 💻 Programming: Python, Java, C++
+- 🌐 Web Development: HTML, CSS, JavaScript
+- ⚛️ Frontend: React (Learning)
+- 📊 Data Analytics: Pandas, NumPy, Matplotlib
+- 🛠 Tools: Git, GitHub
+- 🤖 Basics: Machine Learning, AI
 
-**Prerequisites:**  Node.js
+---
 
+## 📂 Projects
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🛒 Campus Marketplace Website
+- Developed a platform for students to buy and sell products داخل campus
+- Implemented user authentication and product listing
+- Designed responsive and user-friendly UI
+
+---
+
+### 🚗 College Ride Sharing Application
+- Built a web app to connect students for ride sharing
+- Added login/signup system and ride posting features
+- Improved convenience and reduced travel costs
+
+---
+
+### 📚 Learning Platform for Students
+- Designed an interactive platform for students (Class 1–6)
+- Included lessons, quizzes, and activities
+- Focused on simple UI and engaging experience
+
+---
+
+### 💊 Medicine Reminder Application
+- Developed an app to remind users to take medicines on time
+- Implemented notification system for scheduled doses
+- Focused on usability and accessibility
+
+---
+
+## 📊 Certifications
+- AWS Solutions Architecture Job Simulation
+- Microsoft AI & Machine Learning
+- Data Analytics and Generative AI Job Simulation
+
+---
+
+## 🎯 Career Objective
+Seeking internship opportunities to apply my technical skills, gain real-world experience, and contribute to impactful software projects.
+
+---
+
+## 📫 Contact Me
+- 📧 Email: thenmozhiraja22@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/thenmozhi
+- 💻 GitHub: https://github.com/thenmozhi
+
+---
+
+⭐ *Thank you for visiting my portfolio!*
